@@ -1,4 +1,4 @@
-<div position="center"> ## Hi there, here's Silvia, nice to see you 😸 </div>
+## Hi there, here's Silvia, nice to see you 😸 
 
 - 🌱 I’m currently learning front end development, next I'll concentrate on back end and then move on to learn all the necessary to create applications that can be useful for everyone
 - 👯 I’m looking to collaborate with everyone interested on developing applications that will help adhd people FOR FREE
